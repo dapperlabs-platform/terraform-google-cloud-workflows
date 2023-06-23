@@ -5,7 +5,7 @@ This module is used to create a [Workflow](https://cloud.google.com/workflows/do
 The resources/services/activations/deletions that this module will create/trigger are:
 
 - Creates a Workflow
-- Creates either a Cloud Scheduler OR  Event Arc Trigger
+- Creates either a Cloud Scheduler OR Event Arc Trigger
 
 ## Usage
 
